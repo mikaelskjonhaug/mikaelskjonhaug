@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 🇺🇸 Hallo 🇳🇴 I'm Mikael Skjonhaug
+# Computer Science @ UC Berkeley
+AI / ML, SWE and WEB DEV
 
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
