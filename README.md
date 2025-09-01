@@ -3,6 +3,8 @@
 
 💻 AI/ML, SWE and WEB DEV
 
+[🌐Website](https://mikaelskjonhaug.vercel.app)
+
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
 # Projects
