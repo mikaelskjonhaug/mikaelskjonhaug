@@ -11,7 +11,7 @@
 [🐍Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
 
 - RL Agent that learns to navigate the environment using StableBaseline3 framework DEEP Q-Network
-- Custom built game engine and enviornment built using Pygame and OpenAI-Gym enabling renedering and training at +1500 FPS
+- Custom game engine and enviornment built using Pygame and OpenAI-Gym enabling renedering and training at +1500 FPS
 
 [✉️Social Media App](https://github.com/mikaelskjonhaug/social-media)
 
