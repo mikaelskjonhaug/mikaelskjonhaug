@@ -8,7 +8,8 @@
 # Projects
 🐍[Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
 
-    - RL Agent
+- RL Agent that learns to navigate the environment using StableBaseline3 framework DEEP Q-Network
+- Custom built game engine and enviornment built using Pygame and OpenAI-Gym enabling renedering and training at +1500 FPS
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
