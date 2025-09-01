@@ -3,7 +3,7 @@
 
 💻 AI/ML, SWE and WEB DEV
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/your-username/)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/mikaelskjonhaug/)
 
 
 <!--
