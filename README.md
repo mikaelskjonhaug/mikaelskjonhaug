@@ -5,7 +5,10 @@
 
 [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/mikaelskjonhaug/)
 
+# Projects
+🐍[Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
 
+    - RL Agent
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
