@@ -3,10 +3,10 @@
 
 💻 AI/ML, SWE and WEB DEV
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/mikaelskjonhaug/)
+[🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
 # Projects
-🐍[Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
+[🐍Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
 
 - RL Agent that learns to navigate the environment using StableBaseline3 framework DEEP Q-Network
 - Custom built game engine and enviornment built using Pygame and OpenAI-Gym enabling renedering and training at +1500 FPS
