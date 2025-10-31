@@ -1,7 +1,7 @@
 # Hi, I'm Mikael Skjonhaug 
-🐻 Computer Science @ UC Berkeley 
+Computer Science @ UC Berkeley 🐻 
 
-💻 AI/ML, SWE and WEB DEV
+Software Engineer @ Hortus AI
 
 [🌐Website](https://mikaelskjonhaug.vercel.app)
 
