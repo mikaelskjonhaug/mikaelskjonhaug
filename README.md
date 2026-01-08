@@ -5,7 +5,7 @@ Software Engineer @ Hortus AI
 
 Let's create something cool together!
 
-[🌐Website](https://mikaelskjonhaug.vercel.app)
+[🌐Website](https://mikaelskjonha.ug)
 
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
