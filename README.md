@@ -9,16 +9,7 @@ Let's create something cool together!
 
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
-# Projects
-[🐍 Snake-AI](https://github.com/mikaelskjonhaug/snake-ai) 
-
-- RL Agent that learns to navigate the environment using StableBaseline3 framework DEEP Q-Network
-- Custom game engine and enviornment built using Pygame and OpenAI-Gym enabling renedering and training at +1500 FPS
-
-[✉️ iOS Social Network](https://github.com/mikaelskjonhaug/social-media)
-
-- Built full stack twitter-esque social media platform using SwiftUI
-- Integrated with Firebase for Auth and Database
+[👶Beebo App](https://beebo.baby)
 
 ![github-user-contribution](https://github.com/user-attachments/assets/c588403e-6d42-4114-a452-a77a0964625f)
 
