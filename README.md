@@ -1,8 +1,10 @@
 # Hi, I'm Mikael Skjonhaug 
 CS @ UC Berkeley 
+
 SWE @ Hortus AI
 
 [🌐Website](https://mikaelskjonha.ug)
+
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
 ![github-user-contribution](https://github.com/user-attachments/assets/c588403e-6d42-4114-a452-a77a0964625f)
