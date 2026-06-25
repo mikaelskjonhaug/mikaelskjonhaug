@@ -1,15 +1,9 @@
 # Hi, I'm Mikael Skjonhaug 
-Computer Science @ UC Berkeley 🐻 
-
-Software Engineer @ Hortus AI
-
-Let's create something cool together!
+CS @ UC Berkeley 
+SWE @ Hortus AI
 
 [🌐Website](https://mikaelskjonha.ug)
-
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
-
-[👶Beebo App](https://beebo.baby)
 
 ![github-user-contribution](https://github.com/user-attachments/assets/c588403e-6d42-4114-a452-a77a0964625f)
 
