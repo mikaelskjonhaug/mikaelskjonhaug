@@ -7,8 +7,6 @@ SWE @ Hortus AI
 
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
-![github-user-contribution](https://github.com/user-attachments/assets/c588403e-6d42-4114-a452-a77a0964625f)
-
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
