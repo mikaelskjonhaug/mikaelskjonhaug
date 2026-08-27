@@ -1,4 +1,4 @@
-![hello, i'm mikaelskjonha.ug](./assets/github-profile-hero.svg)
+![hello, i'm mikaelskjonha.ug](./github-profile-hero.svg)
 cs @ CAL
 
 swe @ Hortus AI
