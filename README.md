@@ -1,6 +1,6 @@
 [![hello, i'm mikaelskjonha.ug](./github-profile-hero.svg)](https://mikaelskjonha.ug)
-
-mikaelsk@berkeley.edu
+*click for website*
+[email me](mailto:mikaelsk@berkeley.edu)
 
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
