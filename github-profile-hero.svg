@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
+  <title id="title">Mikael Skjonhaug</title>
+  <desc id="description">A Dracula-themed portfolio hero for Mikael Skjonhaug.</desc>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" text-anchor="middle">
+    <text x="192" y="145" fill="#8BE9FD" font-size="28" letter-spacing="2" text-anchor="start">hello, i'm</text>
+    <text x="192" y="272" fill="#F8F8F2" font-size="100" font-weight="700" letter-spacing="-6" text-anchor="start"><tspan fill="#8BE9FD">m</tspan>ikael<tspan fill="#8BE9FD">s</tspan>kjonha<tspan fill="#BD93F9">.ug</tspan></text>
+  </g>
+</svg>
