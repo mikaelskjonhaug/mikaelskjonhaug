@@ -1,11 +1,6 @@
 ![hello, i'm mikaelskjonha.ug](./github-profile-hero.svg)
-cs @ CAL
-
-swe @ Hortus AI
 
 [Website](https://mikaelskjonha.ug)
-
-[LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
 mikaelsk@berkeley.edu
 
