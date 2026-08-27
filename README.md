@@ -1,18 +1,11 @@
-<h1 align="center">hello, i'm mikael skjonhaug</h1>
+# hello, i'm mikael skjonhaug
+cs @ CAL
 
-<p align="center">
-  <strong>CS @ UC Berkeley</strong><br />
-  SWE @ Hortus AI
-</p>
+swe @ Hortus AI
 
-<p align="center">
-  <a href="https://mikaelskjonha.ug">🌐 Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mikaelskjonhaug">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="16" />
-    LinkedIn
-  </a>
-</p>
+[🌐Website](https://mikaelskjonha.ug)
+
+[🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
