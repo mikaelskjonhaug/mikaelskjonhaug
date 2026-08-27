@@ -3,7 +3,7 @@ cs @ CAL
 
 swe @ Hortus AI
 
-[🌐Website](https://mikaelskjonha.ug)
+![Favicon](new_favicon.svg)[Website](https://mikaelskjonha.ug)
 
 [🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
 
