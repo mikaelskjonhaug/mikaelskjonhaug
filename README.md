@@ -3,9 +3,11 @@ cs @ CAL
 
 swe @ Hortus AI
 
-<img src="./new_favicon" alt="favicon" width="100" heigh="100" />[Website](https://mikaelskjonha.ug)
+[Website](https://mikaelskjonha.ug)
 
-[🧑‍💼LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
+[LinkedIn](https://linkedin.com/in/mikaelskjonhaug)
+
+mikaelsk@berkeley.edu
 
 <!--
 **mikaelskjonhaug/mikaelskjonhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
