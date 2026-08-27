@@ -1,6 +1,4 @@
-![hello, i'm mikaelskjonha.ug](./github-profile-hero.svg)
-
-[Website](https://mikaelskjonha.ug)
+[![hello, i'm mikaelskjonha.ug](./github-profile-hero.svg)](https://mikaelskjonha.ug)
 
 mikaelsk@berkeley.edu
 
